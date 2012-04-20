@@ -1,4 +1,4 @@
-britishcouncil.githib.com
+britishcouncil.github.com
 =========================
 
 The British Council on github
